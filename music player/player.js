@@ -1,5 +1,4 @@
 const play_music = document.querySelector('#play')
-//   const pause_music = document.querySelector('.option-container')
 const play_forward = document.querySelector('#forward')
 const play_backward = document.querySelector('#backward')
 const play_random = document.querySelector('#random')
